@@ -1,0 +1,20 @@
+h2 {
+    text-align: right;
+}
+
+h4{
+    text-align: center;
+}
+
+.nav-bar {
+    display: inline-block;
+    padding: 5%;
+}
+
+nav {
+    background-color: rgba(17, 87, 17, 0.635);
+}
+
+.links {
+    display: inline-block;
+}
